@@ -1,4 +1,3 @@
-- 👋 Olá, eu sou apenas um estudante de uma escola mediocre
+- 👋 Olá, eu sou apenas um estudante do 1 ano 
 - 👀 Eu tenho muito interesse em HTML e C++ 
-
-
+- 🍋 Já faz uns 6 meses que eu estou progamando 
